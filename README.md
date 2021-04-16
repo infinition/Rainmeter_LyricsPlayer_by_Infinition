@@ -2,6 +2,7 @@
 My LyricsPlayer Rainmeter Skin
 
 This is my Lyrics player Skin With the WebNowPlaying Chrome extension and the DLL.
+https://chrome.google.com/webstore/detail/webnowplaying-companion/jfakgfcdgpghbbefmdfjkbdlibjgnbli
 
 
 You can see the cover, change the track and click on the progress bar (Not with deezer).
